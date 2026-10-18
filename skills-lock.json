@@ -12,6 +12,12 @@
       "sourceType": "github",
       "skillPath": "skills/productivity/grilling/SKILL.md",
       "computedHash": "ef1641a2047b71b60f1942cd35efb47d3afc9d584dff5a0b01f8c7db923aaa08"
+    },
+    "handoff-torch": {
+      "source": "webreactiva/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ai-workflow/handoff-torch/SKILL.md",
+      "computedHash": "24b3b16ded1a836cf4a43343e5e1ebb61504298ba0b52887f209b78e50d2d44a"
     }
   }
 }
