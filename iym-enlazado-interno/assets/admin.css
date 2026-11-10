@@ -1,0 +1,12 @@
+.iym-el-body{margin-top:16px}
+.iym-el-grid{display:grid;grid-template-columns:minmax(280px,380px) 1fr;gap:16px;align-items:start}
+@media (max-width:960px){.iym-el-grid{grid-template-columns:1fr}}
+.iym-el-card{background:#fff;border:1px solid #dcdcde;border-radius:4px;padding:16px 20px}
+.iym-el-card h2{margin-top:0}
+.iym-el-checks label,.iym-el-inline{display:inline-block;margin:0 14px 6px 0}
+.iym-el-search{display:flex;gap:6px;margin-bottom:12px}
+.iym-el-kw{display:inline-block;background:#f0f6fc;border:1px solid #c5d9ed;border-radius:3px;padding:1px 6px;margin:0 4px 4px 0}
+.iym-el-flag{display:inline-block;font-size:11px;background:#f6f7f7;border:1px solid #dcdcde;border-radius:3px;padding:0 5px;color:#50575e}
+.iym-el-inactive td{opacity:.55}
+.iym-el-actions{white-space:nowrap}
+.iym-el-delete{color:#b32d2e}
